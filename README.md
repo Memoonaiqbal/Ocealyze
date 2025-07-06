@@ -38,7 +38,8 @@
 
 ## 📦 Installation
 # Clone the repository
-git clone https://[github.com/meoona/Ocealyze.git](https://github.com/Memoonaiqbal/Ocealyze)
+git clone https://[github.com/memoona/Ocealyze.git](https://github.com/Memoonaiqbal/Ocealyze)
+
 cd Oceanlyze
 
 # Create a virtual environment (optional but recommended)
