@@ -90,7 +90,9 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ## 📧 Contact
 
 For questions, bugs, or collaboration proposals:
+
 **Author**: *Memoona Iqbal*
+
 **Email**: memoonaiqbal3710@gmail.com
 
 
