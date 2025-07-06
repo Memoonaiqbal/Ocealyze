@@ -28,8 +28,6 @@
 * **✨ Elegant UI**
   Clean glassmorphism design built with Streamlit’s customizable components.
 
-## 📷 Interface Preview
-
 ## 🛠️ System Architecture
 
 * **Frontend:** Streamlit + Plotly
